@@ -25,6 +25,8 @@ Pair programing was both a struggle and helpful. The reason why I say this is be
 
 Another challenge during this project was trying to figure out how to use the place image function in a way that will take two white rectangles and place them on top of a red rectangle and divide the red rectangle into 4 equal pieces to represent the stripes on the flag which took a lot of trial and error. There was most likely an easier way to make the stripes however after some time, the stripes looked good on the flag.
 
+Overall, this point of the year is getting more and more exciting the more it progresses. We are starting to learn more and this knowledge will soon help us when the time comes for AP exams and the final project but hopefully this will all be worth it in the end when I can say that I took an AP course and earned credit for the class and if not I can at least say I kept trying at it.
+
 
 
 
