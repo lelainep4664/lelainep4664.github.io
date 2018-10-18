@@ -18,4 +18,4 @@ The contract above explains the info that the computer needs in order to produce
 
 
 
-![My Flag](image/FLAG/.png)
+![My Flag](/image/FLAG.png)
