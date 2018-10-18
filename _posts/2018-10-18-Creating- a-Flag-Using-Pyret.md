@@ -13,3 +13,9 @@ This week in computer science was exciting. For the first time in weeks, it felt
   Y::Number
   <br/>
   scene::image)->
+The contract above explains the info that the computer needs in order to produce an image with more then one image inside of it. It first takes in an image, then it takes in the cordinates of where that image needs to be, then places that image on a "scene" or in other words places image 1 on image 2
+
+
+
+
+![My Flag](/image/FLAG.png)
