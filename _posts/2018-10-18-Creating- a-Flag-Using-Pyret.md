@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interacting With Pyret
+title: Creating a Flag With Pyret
 date: 2018-10-18
 ---
 
