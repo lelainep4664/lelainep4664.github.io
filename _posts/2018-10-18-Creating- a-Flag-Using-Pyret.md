@@ -20,6 +20,7 @@ We studied new contracts that would show us how to create and "overlap" images u
   <br/>
 The contract above explains the info that the computer needs in order to produce an image with more then one image inside of it. It first takes in an image, then it takes in the cordinates of where that image needs to be, then places that image on a "scene" or in other words places image 1 on image 2. My code uses a series of place-image funtions and other functions such as Circle, rectangle, and star. Now something challenging about all this was that I wasn't sure at first how to place images on top of other images. At the beginning of the week I was attempting to use another function called "overlay-align" and it just wasn't working. It was not until I realized during an activity called "pair programing" that it would be easier to give functions names and it would be easier to use the place-image function by using these names so I won't need to keep going back and repeating functions and re-writing them.
 <br/>
+<br/>
 Another challenge during this project was 
 
 
