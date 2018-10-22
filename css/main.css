@@ -1,7 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    <style>
     background-image: url("paper.gif");
+    <style/>
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
