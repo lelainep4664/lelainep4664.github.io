@@ -4,7 +4,6 @@ body {
     background-position: right top;
     margin-right: 200px;
     background-size: cover;
-    background-attachment: fixed
     margin: 60px auto;
     width: 70%;
 }
