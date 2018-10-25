@@ -1,9 +1,11 @@
 body {
+   background-image: url("https://i.pinimg.com/originals/2a/04/fa/2a04fa66c4b82aa28e12e85d778751de.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
     margin: 60px auto;
     width: 70%;
-    <style>
-    background-image: url("paper.gif");
-    </style>
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
