@@ -12,6 +12,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: 
 }
 nav ul li, footer ul li {
     display: inline;
@@ -42,7 +43,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    color: white;
+    color: #ffffff;
 }
 
 ul.posts li {
