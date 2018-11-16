@@ -1,0 +1,11 @@
+---
+layout: post
+title: Data Abstraction and Return to Data tables
+date: 2018-15-11
+---
+
+Between the last 2 weeks of class we spoke about data abstractions and returned to learning about data sets. To do so we looked at two data simulations. First, our teacher shared with us a program containing a simulation of a drone dropping a box and we had to figure out how to get the box to land going in a diagonal line. At first this seemed really confusing to me and honestly still is pretty confusing to think about but I will try to the best of my ability to try to make sense of it in this reflection. We talked about using mames of data in order to oragnize it to do something for us and as an example we used a function that used constructor data called "DeliveryState" which takes in two numbers and and used them as coordinates in a way. Using this data we can create a fuction called delivery and the contract will look something like this:
+<br/>
+delivery::(x::Number,::y::Number)->Delivery state
+<br/>
+This function will produce a fuction that will produce the delivery state of the function which is a type of data. As you can see the function takes in two values one of which we see is represents 
