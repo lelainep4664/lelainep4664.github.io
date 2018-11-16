@@ -8,4 +8,4 @@ Between the last 2 weeks of class we spoke about data abstractions and returned 
 <br/>
 delivery::(x::Number,::y::Number)->Delivery state
 <br/>
-This function will produce a fuction that will produce the delivery state of the function which is a type of data. As you can see the function takes in two values one of which we see is represents 
+This function will produce a fuction that will produce the delivery state of the function which is a type of data. As you can see the function takes in two values one of which we see is represents the coordinates of where the delivey state leave the package. It takes in both the Y values and X values of delivery and this will solve the presented problem of the simulation. As I said before, the explanation was a little confusing so I'm not sure if I'm presenting my information correctly however I do have some understanding when I look in my notes taliking about data stuctures and abstractions
