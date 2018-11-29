@@ -8,5 +8,13 @@ Earlier in the week, we took a midterm exam that covered most of what we have be
 
 The question we will be looking at today is question 10 where the question is 
 10. What is the value of the following expression?
-a)10
-b)
+</br>
+(string-length("helloWorld!") + (5 + 4)) / 2
+</br>
+(a)10
+</br>
+(b)20
+</br>
+(c)40
+</br>
+(d)none of the above
