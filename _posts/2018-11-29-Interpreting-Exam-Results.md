@@ -8,7 +8,7 @@ Earlier in the week, we took a midterm exam that covered most of what we have be
 
 The question we will be looking at today is question 10 where it stated the following:
 <br/>
-10. What is the value of the following expression?
+10.) What is the value of the following expression?
 <br/>
 (string-length("helloWorld!") + (5 + 4)) / 2
 <br/>
