@@ -7,6 +7,8 @@ date: 2018-12-21
 ## American Flag by Lelaine Perez
 
 ## Describe your program
+The country 
+
 
 -   What country did you design for? _then delete this instruction_
 -   What grade do you expect? _then delete this instruction_
