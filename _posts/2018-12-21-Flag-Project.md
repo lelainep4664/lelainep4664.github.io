@@ -7,18 +7,17 @@ date: 2018-12-21
 ## United States Flag by Lelaine Perez
 
 ## Describe your program
-The country I chose to design for was the Untited States because I thought that I would be able to program the Flag in time however, I didn't exactly finish the flag program so I think that I will overal get a practioner at the most however, the program doesnt exactly run the way I wanted it to since the flag does not scale correctly down to a specific size. 
+The country I chose to design for was the Untited States because I thought that I would be able to program the Flag in time however, I didn't exactly finish the flag program so I think that I will overall get a practioner at the most however, the program doesnt exactly run the way I wanted it to since the flag does not scale correctly down to a specific size. so far it only scales to 100 or 200. 
 
 
 ## Current output
-
 
 * * *
 ![Flag](/images/final-flag.png)
 * * *
 
 ## Describe your process.
-
+one thing I wish I did during this project was ask for more help from my teacher instead of solely trying to figure out the problem by myself.
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
 <!--- Delete this comment and add your writing -->
