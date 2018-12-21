@@ -22,7 +22,7 @@ one thing I wish I did during this project was ask for more help from my teacher
 
 ## Explain your code.
 
-in the first part of the argument in the code below, I used a simple code that my teacher showed us in class where we used the 
+In the first part of the argument in the code below, I used a simple code that my teacher showed us in class where we used the size variable in order to create a function that will 
 -   Explain each argument in the code section. _then delete this instruction_
 -   Tell us how it functions independently and within the whole program _then delete this instruction_
 
