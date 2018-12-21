@@ -4,20 +4,14 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## American Flag by Lelaine Perez
+## United States Flag by Lelaine Perez
 
 ## Describe your program
-The country 
+The country I chose to design for was the Untited States because I thought that I would be able to program the Flag in time however, I didn't exactly finish the flag program so I think that I will overal get a practioner at the most however, the program doesnt exactly run the way I wanted it to since the flag does not scale correctly down to a specific size. 
 
-
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
 ![Flag](/images/final-flag.png)
