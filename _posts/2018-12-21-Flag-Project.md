@@ -7,7 +7,7 @@ date: 2018-12-21
 ## United States Flag by Lelaine Perez
 
 ## Describe your program
-The country I chose to design for was the Untited States because I thought that I would be able to program the Flag in time however, I didn't exactly finish the flag program so I think that I will overall get a practioner at the most however, the program doesnt exactly run the way I wanted it to since the flag does not scale correctly down to a specific size. so far it only scales to 100 or 200. 
+The country I chose to design for was the Untited States because I thought that I would be able to program the Flag in time however, I didn't exactly finish the flag program so I think that I will overall get a practitioner at the most however, the program doesnt exactly run the way I wanted it to since the flag does not scale correctly down to a specific size. so far it only scales to 100 or 200. so the code has some problems however I think I have an understanding of what went wrong with the code. 
 
 
 ## Current output
@@ -17,7 +17,7 @@ The country I chose to design for was the Untited States because I thought that 
 * * *
 
 ## Describe your process.
-One thing I wish I did during this project was ask for more help from my teacher instead of solely trying to figure out the problem by myself. I asked one of my peers who had the same Flag as I and asked them how they went about creating the stripes without them giving me the exact code. After listening to their process, it was more easier to understand. Another thing that brought me the exact colors of the flag was asking how to use the image-structs library in Pyret in order for me to create colors of my own using the exact RGB colors of the United states flag. The biggest strategy I used when creating the flag was just defining all of the proportions and then naming them in order to make it easier to use them later. 
+One thing I wish I did during this project was ask for more help from my teacher instead of solely trying to figure out the problem by myself. I asked one of my peers who had the same Flag as I and asked them how they went about creating the stripes without them giving me the exact code. After listening to their process, it was more easier to understand. Another thing that brought me the exact colors of the flag was asking how to use the image-structs library in Pyret in order for me to create colors of my own using the exact RGB colors of the United states flag. The biggest strategy I used when creating the flag was just defining all of the proportions and then naming them in order to make it easier to use them later. There are also incomplete parts of the code where I didn't understand how to code it mainly the stars. I tried asking my peers however they also didn't know.
 
 
 ## Explain your code.
